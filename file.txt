@@ -1,6 +1,0 @@
-Here's what we are doing for this project.
-
-
-We are trying to create an computer vision project using pytorch and opencv that we will put in multiple roads to analyze the speed limit of that road and maybe adjust it along with identify the cars that are moving significantly above the speed limit.
-
-So we have two cases: identify the road potentially adjust speed limit of the road maybe depending on the situation and at the same time identify the speeding vehicles and identify their license plates and save that in a database, with license plate of the car, location of the incident.  
